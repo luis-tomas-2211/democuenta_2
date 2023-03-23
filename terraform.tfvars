@@ -1,0 +1,6 @@
+accountName = "mi-cuenta"
+SSOEmail = "mi-email@mi-dominio.com"
+SSOUserFirstName = "mi-nombre"
+SSOUserLastName = "mi-apellido"
+managedOrganizationalUnit = "ou-gghg-n8ych1da"
+region = "us-east-1"
